@@ -1,0 +1,10 @@
+html{
+    font-size: 25px;
+    background-color: lightslategray;
+}
+body{
+    font-size: 16px;
+}
+hr{
+    border: 1px solid black;
+}
